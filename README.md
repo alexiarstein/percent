@@ -1,2 +1,6 @@
 # percent
-ES: Calcula el porcentaje entre un número y otro o entre medidas de almacenamiento (MB,GB,TB,KB) - EN: Calculates percentage of two arguments and storage sizes 
+A Percentage Calculator, embeddable in scripts and applications
+
+# about
+Author: Alexia Rivera
+E-mail: lachicadesistemas@gmail.com
