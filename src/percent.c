@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 // Trabajo en progreso. Ignorar esto.
 // #define KB 1024
 // #define MB 1024 * 1024
