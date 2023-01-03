@@ -1,6 +1,8 @@
-# percent
+# PERCENT
 A Percentage Calculator, embeddable in scripts and applications
 
-# about
+# Overview:
+
+# About:
 Author: Alexia Rivera
 E-mail: lachicadesistemas@gmail.com
